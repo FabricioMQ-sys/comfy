@@ -1,0 +1,36 @@
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "comfy-mvp",
+          "appId": "1:1015383119616:android:48d41d19c6d1bd823f05e5",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "comfy-mvp",
+          "configurations": {
+            "android": "1:1015383119616:android:48d41d19c6d1bd823f05e5",
+            "web": "1:1015383119616:web:4c9f78a9654c3b3b3f05e5"
+          }
+        }
+      }
+    }
+  },
+  "hosting": {
+    "public": "build/web",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ],
+    "rewrites": [
+      {
+        "source": "**",
+        "destination": "/index.html"
+      }
+    ]
+  }
+}

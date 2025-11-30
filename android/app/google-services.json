@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1015383119616",
+    "project_id": "comfy-mvp",
+    "storage_bucket": "comfy-mvp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1015383119616:android:48d41d19c6d1bd823f05e5",
+        "android_client_info": {
+          "package_name": "com.example.comfy_wallet"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkMb-qWYew-TAbEb7hDTXJqEBYokcKr0s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
