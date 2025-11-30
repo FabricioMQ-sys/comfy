@@ -46,7 +46,7 @@ Los objetivos académicos principales son:
    ```bash
    git clone https://github.com/FabricioMQ-sys/comfy.git
    cd comfy
-````
+``
 
 2. Instalar dependencias:
 
