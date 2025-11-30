@@ -1,4 +1,3 @@
-````markdown
 # Comfy Wallet
 
 Comfy Wallet es un MVP de billetera digital personal orientada a educación financiera. Permite enviar y recibir dinero, crear metas de ahorro y analizar gastos desde una interfaz simple.
